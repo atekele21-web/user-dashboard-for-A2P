@@ -1,0 +1,6 @@
+{
+  "name": "SIMConnect SMS Partner Portal",
+  "description": "Authenticated Business Partner User Dashboard for SIMConnect SMS A2P messaging services in Ethiopia, featuring SMS management, bulk dispatch, Sender ID lifecycle tracking, API control, and billing analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
